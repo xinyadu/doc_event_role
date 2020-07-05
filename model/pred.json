@@ -1,0 +1,2598 @@
+{
+    "TST3-MUC4-0001": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0002": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0003": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "shining path",
+            "counterterrorism divison",
+            "shining path"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "car"
+        ],
+        "hum_tgt_name": [
+            "enrique lopez albujar trint",
+            "gerardo olivos silva",
+            "lopez albujar"
+        ]
+    },
+    "TST3-MUC4-0004": {
+        "perp_individual_id": [
+            "anonymous callers",
+            "jesus evelio zapata lopez"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "luxury homes",
+            "safes",
+            "kitchen",
+            "swimming pool",
+            "ecuadoran embassy official"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0005": {
+        "perp_individual_id": [
+            "heavily armed men"
+        ],
+        "perp_organization_id": [
+            "fmln - fdr"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "hector oqueli colindres",
+            "gilda flores"
+        ]
+    },
+    "TST3-MUC4-0006": {
+        "perp_individual_id": [
+            "heavily armed men"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "hector oqueli",
+            "gilda flores"
+        ]
+    },
+    "TST3-MUC4-0007": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "nicaraguan embassy",
+            "nicaraguan embassy",
+            "nicaraguan embassy",
+            "ambassador ' s residence",
+            "ambassador ' s residence"
+        ],
+        "hum_tgt_name": [
+            "luis francisco ordonez reyes",
+            "jose jesus pena"
+        ]
+    },
+    "TST3-MUC4-0008": {
+        "perp_individual_id": [
+            "unidentified individuals",
+            "attackers"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0009": {
+        "perp_individual_id": [
+            "demonstrators",
+            "demonstrators"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "chiloe clinic medical files"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0010": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "explosives"
+        ],
+        "phys_tgt_id": [
+            "salvadoran workers national union federation"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0011": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "eln",
+            "army of national liberation"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "labor union of ecopetrol"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0012": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0013": {
+        "perp_individual_id": [
+            "assassins"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "arena",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "salvadoran workers national union federation",
+            "fenastras",
+            "fenastras",
+            "president of the mortgage bank",
+            "fenastras"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0014": {
+        "perp_individual_id": [
+            "five unidentified individuals"
+        ],
+        "perp_organization_id": [
+            "shining path"
+        ],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "luis morales"
+        ]
+    },
+    "TST3-MUC4-0015": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "mauricio pineda",
+            "roberto navas"
+        ]
+    },
+    "TST3-MUC4-0016": {
+        "perp_individual_id": [
+            "honduran forces",
+            "honduran soldiers",
+            "honduran soldiers"
+        ],
+        "perp_organization_id": [
+            "honduran army"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "ifa truck belonging to the interior ministry",
+            "eps border posts",
+            "border post"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0017": {
+        "perp_individual_id": [
+            "urban commandos",
+            "unidentified individuals",
+            "perpetrators",
+            "urban commandos",
+            "urban commandos"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "explosive devices"
+        ],
+        "phys_tgt_id": [
+            "president - elect francisco merino ' s home"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0018": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "terrorists",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "mortars"
+        ],
+        "phys_tgt_id": [
+            "national police station",
+            "power poles"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0019": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0020": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0021": {
+        "perp_individual_id": [
+            "terrorist groups"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "jose antonio rodriguez porth"
+        ]
+    },
+    "TST3-MUC4-0022": {
+        "perp_individual_id": [
+            "terrorists",
+            "four hooded individuals",
+            "commando groups"
+        ],
+        "perp_organization_id": [
+            "shining path"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "dolores hinostroza",
+            "dolores hinostroza"
+        ]
+    },
+    "TST3-MUC4-0023": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "antonio roldan betancur"
+        ]
+    },
+    "TST3-MUC4-0024": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "dynamite"
+        ],
+        "phys_tgt_id": [
+            "oil pipeline",
+            "cano limon - covenas pipeline",
+            "oil pipeline",
+            "vina - puerto salgar oil pipeline",
+            "oil pipeline",
+            "pipeline",
+            "cano limon - covenas oil pipeline",
+            "cano limon - covenas oil pipeline"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0025": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0026": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0027": {
+        "perp_individual_id": [
+            "unidentified individuals",
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "machinegun"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "danilo barillas"
+        ]
+    },
+    "TST3-MUC4-0028": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0029": {
+        "perp_individual_id": [
+            "snipers",
+            "snipers"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "rocket launching helicopter",
+            "rockets"
+        ],
+        "phys_tgt_id": [
+            "civilian defense post"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0030": {
+        "perp_individual_id": [
+            "motorized paid assasins",
+            "two people"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "maria elena diaz",
+            "alvaro medina moreno",
+            "carlos valencia garcia"
+        ]
+    },
+    "TST3-MUC4-0031": {
+        "perp_individual_id": [
+            "drug traffickers"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0032": {
+        "perp_individual_id": [
+            "jubiz hazvumb",
+            "paramilitary squads"
+        ],
+        "perp_organization_id": [
+            "drug - trafficking mafias",
+            "medellin cartel",
+            "ultraright - wing paramilitary groups",
+            "drug - trafficking organizations",
+            "medellin cartel"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "luis carlos galan"
+        ]
+    },
+    "TST3-MUC4-0033": {
+        "perp_individual_id": [
+            "urban commandos",
+            "guerrilla units",
+            "guerrilla units",
+            "guerrilla units",
+            "guerrillas",
+            "guerrilla units",
+            "militias",
+            "guerrilla units",
+            "guerrilla units"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "grenade",
+            "mortar"
+        ],
+        "phys_tgt_id": [
+            "avenida cinema",
+            "power lines"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0034": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "miguel maza marquez",
+            "luis carlos galan"
+        ]
+    },
+    "TST3-MUC4-0035": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0036": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "jose maria cordoba international airport",
+            "installations of the jose maria cordoba airport"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0037": {
+        "perp_individual_id": [
+            "drug traffickers"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "dynamite",
+            "bomb",
+            "device",
+            "dynamite"
+        ],
+        "phys_tgt_id": [
+            "bank branches",
+            "front of the state - owned agrarian board",
+            "agrarian board branch",
+            "bank building",
+            "bus",
+            "stores",
+            "bank branches",
+            "police post"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0038": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "medellin cartel"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "airport of the texas petroleum company"
+        ],
+        "hum_tgt_name": [
+            "marta lucia gonzalez",
+            "alvaro gonzalez santana",
+            "luis carlos galan"
+        ]
+    },
+    "TST3-MUC4-0039": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0040": {
+        "perp_individual_id": [
+            "two men"
+        ],
+        "perp_organization_id": [
+            "drug trafficking cartels"
+        ],
+        "incident_instrument_id": [
+            "bombs",
+            "bomb",
+            "bomb",
+            "explosive devices",
+            "bombs",
+            "bombs"
+        ],
+        "phys_tgt_id": [
+            "bank offices",
+            "banco de occidente branch",
+            "nearby banks",
+            "banco de occidente",
+            "banco popular branch",
+            "banks and shops",
+            "banco popular",
+            "political offices of the liberal and social conservative parties",
+            "bank office"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0041": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "car bomb",
+            "dynamite",
+            "car bomb"
+        ],
+        "phys_tgt_id": [
+            "gas station",
+            "gas station",
+            "old station wagon",
+            "gas station"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0042": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0043": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0044": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "ricardo rojas cultural center",
+            "arm of beatriz iero"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0045": {
+        "perp_individual_id": [
+            "terrorist groups"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0046": {
+        "perp_individual_id": [
+            "gunmen",
+            "two men",
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [
+            "extraditables",
+            "armed branch of the medellin cartel",
+            "extraditables",
+            "drug trafficking mafia",
+            "medellin cartel"
+        ],
+        "incident_instrument_id": [
+            "car bomb"
+        ],
+        "phys_tgt_id": [
+            "employees of bogota ' s daily el espectador",
+            "el espectador ' s office"
+        ],
+        "hum_tgt_name": [
+            "martha luz lopez",
+            "martha luz lopez",
+            "martha lopez orozco de lopez",
+            "guillermo cano",
+            "hector giraldo galvez"
+        ]
+    },
+    "TST3-MUC4-0047": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "military institution"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0048": {
+        "perp_individual_id": [
+            "unidentified men"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "diana mack ortiz",
+            "diana mack ortiz",
+            "mack ortiz"
+        ]
+    },
+    "TST3-MUC4-0049": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0050": {
+        "perp_individual_id": [
+            "guerrillas",
+            "rebels",
+            "rebels",
+            "urban commandos",
+            "rebels",
+            "guerrillas",
+            "urban commandos",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "pylons",
+            "46 , 000 - volt electrical line",
+            "command staff installations"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0051": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "monica de greiff"
+        ]
+    },
+    "TST3-MUC4-0052": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "shining path \" organization"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0053": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "fenastras",
+            "glass house"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0054": {
+        "perp_individual_id": [
+            "terrorists"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "residence of the legislative assembly president",
+            "presidential residence",
+            "his private residence"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0055": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "guerrilla fighters"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "helicopter gunships",
+            "automatic ak - 47 rifle"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0056": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "rpg - 7 rocket"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0057": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0058": {
+        "perp_individual_id": [
+            "troops"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0059": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "bolivian labor confederation underground sessions"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0060": {
+        "perp_individual_id": [
+            "soldiers",
+            "heavily armed soldiers",
+            "soldiers"
+        ],
+        "perp_organization_id": [
+            "armed forces"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "ignacio ellacuria",
+            "ignacio martin baro",
+            "segundo montes",
+            "amando lopez",
+            "juan ramon moreno",
+            "joaquin lopez y lopez",
+            "julia ramos",
+            "elva ramos"
+        ]
+    },
+    "TST3-MUC4-0061": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "president alfredo cristiani ' s official and personal residences",
+            "wing trade union ' s headquarters"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0062": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln",
+            "air force",
+            "fmln",
+            "air force",
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "machineguns"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0063": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "white house"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0064": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln communists"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0065": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "union headquarters"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0066": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "extreme right death squads"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "cerezo",
+            "carlos morales ehrlich"
+        ]
+    },
+    "TST3-MUC4-0067": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "atlacatl battalion",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0068": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0069": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0070": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "presidential house"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0071": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "atlacatl",
+            "fmln",
+            "fmln",
+            "air force",
+            "air force"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "electricity posts",
+            "electricity posts",
+            "electricity posts"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0072": {
+        "perp_individual_id": [
+            "colombian drug traffickers"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0073": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "headquarters of colombia ' s secret police",
+            "building of the secret police",
+            "nearby offices of the bogota transportation department"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0074": {
+        "perp_individual_id": [
+            "terrorist criminals"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln",
+            "air force"
+        ],
+        "incident_instrument_id": [
+            "dynamite",
+            "sam - 7 missiles"
+        ],
+        "phys_tgt_id": [
+            "fenastras",
+            "salvadoran workers national union federation"
+        ],
+        "hum_tgt_name": [
+            "febe elizabeth velazquez"
+        ]
+    },
+    "TST3-MUC4-0075": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0076": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0077": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "gonzalo rodriguez gacha"
+        ]
+    },
+    "TST3-MUC4-0078": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0079": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0080": {
+        "perp_individual_id": [
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "fm",
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "electric catapults",
+            "bomb",
+            "bomb",
+            "dynamite"
+        ],
+        "phys_tgt_id": [
+            "businesses"
+        ],
+        "hum_tgt_name": [
+            "maria luz lopez"
+        ]
+    },
+    "TST3-MUC4-0081": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "peruvian embassy",
+            "peruvian embassy",
+            "car belonging to one of the embassy ' s military attaches"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0082": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "bernardo jaramillo ossa",
+            "bernardo jaramillo",
+            "bernardo jaramillo"
+        ]
+    },
+    "TST3-MUC4-0083": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "cristiani ' s government"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "hector oqueli"
+        ]
+    },
+    "TST3-MUC4-0084": {
+        "perp_individual_id": [
+            "rebels"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "store",
+            "public bus",
+            "national guard posts",
+            "electrical appliance store"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0085": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0086": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "jacobo arenas",
+            "timoleon jimenez"
+        ]
+    },
+    "TST3-MUC4-0087": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0088": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "the popular liberation army",
+            "eln",
+            "armed forces of colombia"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "power system"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0089": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0090": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "cerezo"
+        ]
+    },
+    "TST3-MUC4-0091": {
+        "perp_individual_id": [
+            "escobar"
+        ],
+        "perp_organization_id": [
+            "military regime government junta",
+            "fpmr",
+            "fpmr"
+        ],
+        "incident_instrument_id": [
+            "9 mm semiautomatic pistols"
+        ],
+        "phys_tgt_id": [
+            "gen . leigh ' s office",
+            "gen . leigh ' s private office"
+        ],
+        "hum_tgt_name": [
+            "gustavo leigh guzman",
+            "joanna santis retamal",
+            "gustavo leigh",
+            "gustavo leigh",
+            "gustavo leigh"
+        ]
+    },
+    "TST3-MUC4-0092": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "peruvian embassy",
+            "ecuadoran embassy"
+        ],
+        "hum_tgt_name": [
+            "gonzalo gonzalez",
+            "leovigildo herrrera"
+        ]
+    },
+    "TST3-MUC4-0093": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "bernardo jaramillo",
+            "bernardo jaramillo"
+        ]
+    },
+    "TST3-MUC4-0094": {
+        "perp_individual_id": [
+            "terrorist groups",
+            "terrorists",
+            "terrorists",
+            "terrorists",
+            "urban commandos",
+            "terrorists squads"
+        ],
+        "perp_organization_id": [
+            "fmln - fdr",
+            "farabundo marti national liberation front - revolutionary democratic front",
+            "fmln",
+            "fmln - fdr",
+            "fmln - fdr",
+            "fmln - fdr",
+            "fmln - fdr"
+        ],
+        "incident_instrument_id": [
+            "car bomb"
+        ],
+        "phys_tgt_id": [
+            "automobile spare parts distribution company"
+        ],
+        "hum_tgt_name": [
+            "mauricio campos",
+            "manuel alvaro mendoza",
+            "jose manuel posada",
+            "antonio ortiz",
+            "otto milla"
+        ]
+    },
+    "TST3-MUC4-0095": {
+        "perp_individual_id": [
+            "jose gonzalez oliva",
+            "drug traffickers"
+        ],
+        "perp_organization_id": [
+            "drug trafficking gang",
+            "drug trafficking gang",
+            "drug trafficking gang"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "55 - gallon barrels of acetone",
+            "his house"
+        ],
+        "hum_tgt_name": [
+            "jose antonio robles garcia",
+            "jose guadaulupe benavides carbajold",
+            "steven andrew henry",
+            "abelica garcia sanchez",
+            "francisco vasquez sanchez",
+            "alfredo villareal guzman",
+            "jesus presas arredondo",
+            "fernando quintela galindo",
+            "dany childres"
+        ]
+    },
+    "TST3-MUC4-0096": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "carlos pizarro leongomez",
+            "carlos pizarro",
+            "carlos pizarro",
+            "pizarro",
+            "carlos pizarro",
+            "carlos pizarro leongomez"
+        ]
+    },
+    "TST3-MUC4-0097": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "armed forces",
+            "farabundo marti national liberation front",
+            "fmln",
+            "guerrila forces"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "houses"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0098": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0099": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "urban commandos"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "electric power system",
+            "electric poles",
+            "power pylons",
+            "power lines",
+            "pylons",
+            "transformer"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST3-MUC4-0100": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "repressive government"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "maria eugneia ochoa garcia"
+        ]
+    },
+    "TST4-MUC4-0001": {
+        "perp_individual_id": [
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "mormon church",
+            "chapel of the church of jesus christ of latter - day saints"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0002": {
+        "perp_individual_id": [
+            "troops",
+            "men under his command"
+        ],
+        "perp_organization_id": [
+            "rolando cabezas alarcon"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0003": {
+        "perp_individual_id": [
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "civil guard post"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0004": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0005": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "grenade"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "aminta platero",
+            "rinaldo golcher"
+        ]
+    },
+    "TST4-MUC4-0006": {
+        "perp_individual_id": [
+            "rebels"
+        ],
+        "perp_organization_id": [
+            "civiplan battalion"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "electric tower"
+        ],
+        "hum_tgt_name": [
+            "alexander molina granados"
+        ]
+    },
+    "TST4-MUC4-0007": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "aeronica ' s regional offices"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0008": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "private property"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0009": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [
+            "fpmr",
+            "manuel rodriguez patriotic front",
+            "fpmr",
+            "fpmr"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0010": {
+        "perp_individual_id": [
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "national vanguard offices",
+            "national vanguard offices"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0011": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0012": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "carlos alonso rivera",
+            "guillermo zevallos"
+        ]
+    },
+    "TST4-MUC4-0013": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "alvaro sanabria",
+            "oscar arnulfo romero",
+            "amado antonio garay reyes"
+        ]
+    },
+    "TST4-MUC4-0014": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0015": {
+        "perp_individual_id": [
+            "guerrillas",
+            "attackers"
+        ],
+        "perp_organization_id": [
+            "the popular liberation army",
+            "army of national liberation group"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "houses",
+            "bus"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0016": {
+        "perp_individual_id": [
+            "urban guerrillas",
+            "rebels",
+            "urban guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "bombs",
+            "bombs",
+            "bombs",
+            "bombs"
+        ],
+        "phys_tgt_id": [
+            "rural basic health plan section of the health ministry",
+            "government property"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0017": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "underground hideout",
+            "underground warehouse"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0018": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "noel kempff"
+        ]
+    },
+    "TST4-MUC4-0019": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb",
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "economy ministry",
+            "economy and finance ministry building"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0020": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0021": {
+        "perp_individual_id": [
+            "unidentified individuals armed",
+            "guerrillas"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "machineguns",
+            "bomb"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0022": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "submachineguns",
+            "molotov cocktails"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0023": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0024": {
+        "perp_individual_id": [
+            "unidentified individuals",
+            "attackers",
+            "attackers"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0025": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "david diaz cortez"
+        ]
+    },
+    "TST4-MUC4-0026": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0027": {
+        "perp_individual_id": [
+            "terrorist column",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [
+            "mrta",
+            "mrta",
+            "mrta"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "civil guard posts of tabalozos"
+        ],
+        "hum_tgt_name": [
+            "juan antonio leon montero"
+        ]
+    },
+    "TST4-MUC4-0028": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bombs",
+            "bombs",
+            "tnt"
+        ],
+        "phys_tgt_id": [
+            "high tension towers"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0029": {
+        "perp_individual_id": [
+            "terrorists",
+            "attackers"
+        ],
+        "perp_organization_id": [
+            "shining path group",
+            "shining path"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "pedestrian",
+            "u . s . embassy",
+            "his house",
+            "police club"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0031": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "eln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "section of the multipurpose pipeline",
+            "pipeline",
+            "highway",
+            "pipeline",
+            "30 - meter section of pipeline",
+            "oil pipeline",
+            "cano limon - covenas oil pipeline",
+            "pipeline"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0032": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "headquarters of the shoe industry workers union"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0033": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "jimmy farias dias",
+            "jorge lopes hubilla",
+            "ernesto guzman morales"
+        ]
+    },
+    "TST4-MUC4-0034": {
+        "perp_individual_id": [
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb",
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "home of general enrique franco"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0035": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0036": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "san miguel police station"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0037": {
+        "perp_individual_id": [
+            "urban guerrillas",
+            "rebels",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [
+            "bombs"
+        ],
+        "phys_tgt_id": [
+            "recently built la torre de cristal building",
+            "administrative offices",
+            "seaside resort",
+            "power pole"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0038": {
+        "perp_individual_id": [
+            "soldiers",
+            "soldiers",
+            "soldiers",
+            "soldiers",
+            "soldiers",
+            "soldiers",
+            "troops"
+        ],
+        "perp_organization_id": [
+            "eps",
+            "eps",
+            "eps",
+            "eps",
+            "eps",
+            "eps",
+            "eps"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "rosalio mejia rodriguez",
+            "guillermo saul mejia herrera",
+            "jose mario chicas diaz",
+            "hector rosales mejia rodriguez",
+            "guillermo saul mejia herrera"
+        ]
+    },
+    "TST4-MUC4-0039": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "leftist national liberation army",
+            "eln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "highway"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0040": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "commercial building",
+            "businesses"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0041": {
+        "perp_individual_id": [
+            "terrorists",
+            "heavily armed terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "bus",
+            "bus"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0042": {
+        "perp_individual_id": [
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "army of national liberation"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "bridges",
+            "bridges",
+            "bridge",
+            "bridge",
+            "bridge"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0043": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "shopping mall",
+            "amusement places",
+            "shopping mall"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0044": {
+        "perp_individual_id": [
+            "snipers"
+        ],
+        "perp_organization_id": [
+            "manuel rodriguez patriotic front",
+            "fpmr",
+            "fpmr",
+            "fpmr",
+            "fpmr"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0045": {
+        "perp_individual_id": [
+            "guerrillas"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "bridge",
+            "public bus",
+            "employees of the civil registry office"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0046": {
+        "perp_individual_id": [
+            "death squad members"
+        ],
+        "perp_organization_id": [
+            "armed forces"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "oscar arnulfo romero"
+        ]
+    },
+    "TST4-MUC4-0047": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "houses",
+            "thousands of hectares of forest"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0048": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0049": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln",
+            "fmln - fdr",
+            "fmln - fdr",
+            "repressive government"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0050": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0051": {
+        "perp_individual_id": [
+            "four masked individuals"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "carlos medrano vazquez"
+        ]
+    },
+    "TST4-MUC4-0052": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0053": {
+        "perp_individual_id": [
+            "guerrillas"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0054": {
+        "perp_individual_id": [
+            "insurgents"
+        ],
+        "perp_organization_id": [
+            "national liberation army"
+        ],
+        "incident_instrument_id": [
+            "bomb"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0055": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "andres avelino caceres park"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0056": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0057": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "armed forces",
+            "fmln",
+            "armed forces",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0058": {
+        "perp_individual_id": [
+            "terrorists",
+            "several unidentified people"
+        ],
+        "perp_organization_id": [
+            "shining path",
+            "shining path"
+        ],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb",
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "dance hall",
+            "dance hall"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0059": {
+        "perp_individual_id": [
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "power towers of the national energy network",
+            "power towers"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0060": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0061": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln military"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "el angel sugar mill",
+            "sugar mill",
+            "administrative offices of the sugar mill",
+            "nearby house",
+            "las canas bridge",
+            "national guard headquarters"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0062": {
+        "perp_individual_id": [
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0063": {
+        "perp_individual_id": [
+            "rebels"
+        ],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "community center of dulce nombre de maria"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0064": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "private property or homes",
+            "general headquarters",
+            "general directorate office"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0065": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "manuel rodriguez patriotic front",
+            "fpmr"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "maximiliano rivera",
+            "aldo esteban mutarelo",
+            "angelica huerta huerta",
+            "adolfo mas stilman flores",
+            "arnaldo rivera"
+        ]
+    },
+    "TST4-MUC4-0066": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0067": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bombs"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0068": {
+        "perp_individual_id": [
+            "guerrillas",
+            "commando"
+        ],
+        "perp_organization_id": [
+            "national liberation army",
+            "eln",
+            "eln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "guillermo rodriguez velasquez"
+        ]
+    },
+    "TST4-MUC4-0069": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "electric line"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0070": {
+        "perp_individual_id": [
+            "perpetrators"
+        ],
+        "perp_organization_id": [
+            "mrta"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0071": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "jose antonio aregua",
+            "justo pastor ceballos"
+        ]
+    },
+    "TST4-MUC4-0072": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "national liberation army",
+            "eln",
+            "eln"
+        ],
+        "incident_instrument_id": [
+            "dynamite"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "ricardo diaz"
+        ]
+    },
+    "TST4-MUC4-0073": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0074": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "bernardo jaramillo ossa"
+        ]
+    },
+    "TST4-MUC4-0075": {
+        "perp_individual_id": [
+            "guerrillas"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0076": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas",
+            "guerrillas"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "jacobo arenas"
+        ]
+    },
+    "TST4-MUC4-0077": {
+        "perp_individual_id": [
+            "presumed shining path maoist extremists",
+            "terrorist groups shining path"
+        ],
+        "perp_organization_id": [
+            "tupac amaru revolutionary movement",
+            "mrta"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "peruvian tourist establishments",
+            "inns and hotels",
+            "bus"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0078": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "national administration for telecommunications offices",
+            "vehicles",
+            "buses",
+            "electricity system",
+            "high - tension power poles"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0079": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "carlos perez lopez",
+            "carlos lopez perez"
+        ]
+    },
+    "TST4-MUC4-0080": {
+        "perp_individual_id": [
+            "escobar",
+            "man",
+            "man",
+            "escobar",
+            "escobar fernandez",
+            "escobar fernandez"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "bookstore"
+        ],
+        "hum_tgt_name": [
+            "gustavo de jesus escobar fernandez",
+            "maria florez gutierrez",
+            "gustavo de jesus escobar"
+        ]
+    },
+    "TST4-MUC4-0081": {
+        "perp_individual_id": [
+            "insurgents"
+        ],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "train"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0082": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0083": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "mauricio vera barrios"
+        ]
+    },
+    "TST4-MUC4-0084": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0085": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [
+            "shining path guerrilla movement",
+            "shining path",
+            "shining path"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "adolfo spezua"
+        ]
+    },
+    "TST4-MUC4-0086": {
+        "perp_individual_id": [
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "salvadoran army",
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "hector arevalo"
+        ]
+    },
+    "TST4-MUC4-0087": {
+        "perp_individual_id": [
+            "kidnappers"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0088": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "hugo garcia salvatecci",
+            "juan carlos vega llona"
+        ]
+    },
+    "TST4-MUC4-0089": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0090": {
+        "perp_individual_id": [
+            "urban guerrillas",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "rosa imelda gonzalez medrano"
+        ]
+    },
+    "TST4-MUC4-0091": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bomb"
+        ],
+        "phys_tgt_id": [
+            "bridge",
+            "bridge"
+        ],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0092": {
+        "perp_individual_id": [
+            "rebels"
+        ],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0093": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "poor people ' s army",
+            "people ' s liberation army"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0094": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "luis alva castro",
+            "luis alva castro"
+        ]
+    },
+    "TST4-MUC4-0095": {
+        "perp_individual_id": [
+            "guerrillas",
+            "rebels"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0096": {
+        "perp_individual_id": [
+            "drug traffickers",
+            "drug traffickers"
+        ],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "machineguns"
+        ],
+        "phys_tgt_id": [
+            "public security secretary of the state"
+        ],
+        "hum_tgt_name": [
+            "leopoldo gomes portao",
+            "genilde fernandes morais",
+            "leopoldo gomes portao"
+        ]
+    },
+    "TST4-MUC4-0097": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [
+            "bombs"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": []
+    },
+    "TST4-MUC4-0098": {
+        "perp_individual_id": [
+            "urban guerrilla group",
+            "members of urban command units",
+            "rene armando guevara martinez",
+            "marco tulio molina escobar",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln urban command units",
+            "fmln urban command"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "carlos elias menjivar guevara",
+            "claudia ines canjura guillen",
+            "jaime alexander atencio valladares",
+            "luis san salvador rivas carrillo",
+            "ana ruth merino diaz",
+            "claudia carolina sanchez flores"
+        ]
+    },
+    "TST4-MUC4-0099": {
+        "perp_individual_id": [
+            "terrorist manuel rodriguez patriotic front"
+        ],
+        "perp_organization_id": [
+            "fpmr",
+            "fpmr",
+            "fpmr",
+            "fpmr"
+        ],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "fernando torres silva"
+        ]
+    },
+    "TST4-MUC4-0100": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "incident_instrument_id": [],
+        "phys_tgt_id": [
+            "high - tension towers"
+        ],
+        "hum_tgt_name": []
+    }
+}
