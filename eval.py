@@ -9,14 +9,8 @@ import re
 import string
 import copy
 from collections import OrderedDict
-
 import spacy
-nlp = spacy.load("en_core_web_sm") # for finding head noun
-# from spacy.tokenizer import Tokenizer
-# from spacy.lang.en import English
-# tokenizer = Tokenizer(nlp.vocab)
-
-tag2name = OrderedDict([('perp_individual_id', "PerpInd"), ('perp_organization_id',"PerpOrg"), ('phys_tgt_id',"Target"), ('hum_tgt_name',"Victim"), ('incident_instrument_id',"Weapon")])
+key2role = OrderedDict([('perp_individual_id', "PerpInd"), ('perp_organization_id',"PerpOrg"), ('phys_tgt_id',"Target"), ('hum_tgt_name',"Victim"), ('incident_instrument_id',"Weapon")])
 
 def normalize_string(s):
     """Lower text and remove punctuation, articles and extra whitespace."""
@@ -74,34 +68,33 @@ def remove_duplicate_head_noun(items):
 def eval_exact(doc_pred_mentions, doc_gold_entitys):
     ## normalize pred mentions 
     for doc_id in doc_pred_mentions:
-        for tag in tag2name:
+        for key in key2role:
             mentions_norm = list()
-            for span in doc_pred_mentions[doc_id][tag]:
+            for span in doc_pred_mentions[doc_id][key]:
                 mentions_norm.append(normalize_string(span))
-            doc_pred_mentions[doc_id][tag] = remove_duplicate(mentions_norm)
-            # doc_pred_mentions[doc_id][tag] = mentions_norm
+            doc_pred_mentions[doc_id][key] = remove_duplicate(mentions_norm)
 
     ## normalize gold
     for doc_id in doc_gold_entitys:
-        for tag in tag2name:
+        for key in key2role:
             entitys_norm = list()
-            for entity in doc_gold_entitys[doc_id]["roles"][tag]:
+            for entity in doc_gold_entitys[doc_id]["roles"][key]:
                 mentions_norm = list()
                 for span in entity:
                     mentions_norm.append(normalize_string(span))
                 entitys_norm.append(mentions_norm)
-            doc_gold_entitys[doc_id]["roles"][tag] = entitys_norm
+            doc_gold_entitys[doc_id]["roles"][key] = entitys_norm
 
 
-    print("===============Exact Match===============") 
+    print("================Exact Match=================") 
     print("Prec, Recall, F-1")
     prec_macro, recall_macro = 0, 0
-    for tag in tag2name:
+    for key in key2role:
         gold_entity_num, right_entity_num, pred_mention_num, right_mention_num = 0, 0, 0, 0
         for doc_id in doc_gold_entitys:
-            gold_entitys = doc_gold_entitys[doc_id]["roles"][tag]
+            gold_entitys = doc_gold_entitys[doc_id]["roles"][key]
             if doc_id not in doc_pred_mentions: continue
-            pred_mentions = doc_pred_mentions[doc_id][tag]
+            pred_mentions = doc_pred_mentions[doc_id][key]
             # for recall
             for entity in gold_entitys:
                 gold_entity_num += 1
@@ -131,40 +124,41 @@ def eval_exact(doc_pred_mentions, doc_gold_entitys):
             recall *= 100
             f_measure = 2*prec*recall/(prec+recall)
 
-        print("%s\n%.4f %.4f %.4f"%(tag2name[tag], prec, recall, f_measure))
+        print("%s\n%.4f %.4f %.4f"%(key2role[key], prec, recall, f_measure))
         prec_macro += prec
         recall_macro += recall
 
-    prec_macro = prec_macro / len(tag2name)
-    recall_macro = recall_macro / len(tag2name)
+    prec_macro = prec_macro / len(key2role)
+    recall_macro = recall_macro / len(key2role)
     f_measure_macro = 2*prec_macro*recall_macro/(prec_macro+recall_macro)
     print("MACRO average:")
     print("%.4f %.4f %.4f"%(prec_macro, recall_macro, f_measure_macro))
 
 def eval_head_noun(doc_pred_mentions, doc_gold_entitys):
+    nlp = spacy.load("en_core_web_sm") # for finding head noun
     ## pred
     doc_pred_mentions_head_noun = dict()
     for doc_id in doc_pred_mentions:
         doc_pred_mentions_head_noun[doc_id] = dict()
-        for tag in tag2name:
-            doc_pred_mentions_head_noun[doc_id][tag] = list()
-            for mention in doc_pred_mentions[doc_id][tag]:
+        for key in key2role:
+            doc_pred_mentions_head_noun[doc_id][key] = list()
+            for mention in doc_pred_mentions[doc_id][key]:
                 mention_norm = normalize_string(mention)
                 head_noun = list()
                 noun_chunks = list(nlp(mention_norm).noun_chunks)
                 for noun_chunk in noun_chunks: 
                     head_noun.append(noun_chunk.root.text)
-                doc_pred_mentions_head_noun[doc_id][tag].append({"span": mention_norm, "hn": head_noun})
-            doc_pred_mentions_head_noun[doc_id][tag] = remove_duplicate_head_noun(doc_pred_mentions_head_noun[doc_id][tag])
+                doc_pred_mentions_head_noun[doc_id][key].append({"span": mention_norm, "hn": head_noun})
+            doc_pred_mentions_head_noun[doc_id][key] = remove_duplicate_head_noun(doc_pred_mentions_head_noun[doc_id][key])
 
 
     ## gold 
     doc_gold_entitys_head_noun = dict()
     for doc_id in doc_gold_entitys:
         doc_gold_entitys_head_noun[doc_id] = dict()
-        for tag in tag2name:
-            doc_gold_entitys_head_noun[doc_id][tag] = list()
-            for entity in doc_gold_entitys[doc_id]["roles"][tag]:
+        for key in key2role:
+            doc_gold_entitys_head_noun[doc_id][key] = list()
+            for entity in doc_gold_entitys[doc_id]["roles"][key]:
                 entity_head_noun = list()
                 for mention in entity:
                     mention_norm = normalize_string(mention)
@@ -173,18 +167,18 @@ def eval_head_noun(doc_pred_mentions, doc_gold_entitys):
                     for noun_chunk in noun_chunks: 
                         head_noun.append(noun_chunk.root.text)
                     entity_head_noun.append({"span": mention_norm, "hn": head_noun})
-                doc_gold_entitys_head_noun[doc_id][tag].append(entity_head_noun)
+                doc_gold_entitys_head_noun[doc_id][key].append(entity_head_noun)
 
     ## report head noun
     print("===============Head Noun Match===============") 
     print("Prec, Recall, F-1")
     prec_macro, recall_macro = 0, 0
-    for tag in tag2name:
+    for key in key2role:
         gold_entity_num, right_entity_num, pred_mention_num, right_mention_num = 0, 0, 0, 0
         for doc_id in doc_gold_entitys_head_noun:
-            gold_entitys = doc_gold_entitys_head_noun[doc_id][tag]
+            gold_entitys = doc_gold_entitys_head_noun[doc_id][key]
             if doc_id not in doc_pred_mentions_head_noun: continue
-            pred_mentions = doc_pred_mentions_head_noun[doc_id][tag]
+            pred_mentions = doc_pred_mentions_head_noun[doc_id][key]
             # for recall
             for entity in gold_entitys:
                 gold_entity_num += 1
@@ -214,12 +208,12 @@ def eval_head_noun(doc_pred_mentions, doc_gold_entitys):
             recall *= 100
             f_measure = 2*prec*recall/(prec+recall)
 
-        print("%s\n%.4f %.4f %.4f"%(tag2name[tag], prec, recall, f_measure))
+        print("%s\n%.4f %.4f %.4f"%(key2role[key], prec, recall, f_measure))
         prec_macro += prec
         recall_macro += recall
 
-    prec_macro = prec_macro / len(tag2name)
-    recall_macro = recall_macro / len(tag2name)
+    prec_macro = prec_macro / len(key2role)
+    recall_macro = recall_macro / len(key2role)
     f_measure_macro = 2*prec_macro*recall_macro/(prec_macro+recall_macro)
     print("MACRO average:")
     print("%.4f %.4f %.4f"%(prec_macro, recall_macro, f_measure_macro))
@@ -235,12 +229,9 @@ if __name__ == '__main__':
     # read pred and gold
     with open(args.predfile) as f_pred:
         doc_pred_mentions = json.loads(f_pred.read())
-
     with open(args.goldfile) as f_gold:
         doc_gold_entitys = json.loads(f_gold.read())     
 
-    # # obtain eval results
+    # obtain eval results
     eval_exact(copy.deepcopy(doc_pred_mentions), copy.deepcopy(doc_gold_entitys))
     eval_head_noun(copy.deepcopy(doc_pred_mentions), copy.deepcopy(doc_gold_entitys))
-
-    # get_eval_results(doc_pred_mentions, doc_gold_entitys, to_print=True)
