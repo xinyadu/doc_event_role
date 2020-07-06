@@ -21,7 +21,7 @@
 	│ 
 	└── raw_muc/              # Raw data files from MUC-{3,4}
 
-Run preprocessing for train and dev, use flag `-full` whether to include all the templates.
+Run preprocessing for train and dev, use flag `-full` to include all the templates.
 > python process\_train\_dev.py 
 
 Run preprocessing for test,
