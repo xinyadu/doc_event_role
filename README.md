@@ -41,7 +41,7 @@ If you use our eval script, please make sure the `<pred file>` is of the same fo
 
 ## Model Code
 
-To come
+We include a sample output file in the folder. More to come.
 
 
 ## Citation
