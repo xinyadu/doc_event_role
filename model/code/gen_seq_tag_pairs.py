@@ -126,7 +126,7 @@ if __name__=='__main__':
     nlp = spacy.load("en_core_web_sm")
 
     # doc_dict, keys_dict = read_files(doc_file, keys_file)
-    with open("../data/processed/" + args.div + "_full.json", "r") as doc_keys_file:
+    with open("../../data/processed/" + args.div + "_full.json", "r") as doc_keys_file:
         doc_keys = json.load(doc_keys_file, object_pairs_hook=OrderedDict)
 
     # print(all_values_list)
