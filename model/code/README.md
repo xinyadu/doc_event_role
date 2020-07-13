@@ -1,6 +1,13 @@
 
 # code for multi-granularity reader
 
+- step 0, mkdir
+
+```
+mkdir model_out
+mkdir model_save
+```
+
 
 - Step 1, Generate seq_tag pairs,
 
@@ -21,8 +28,6 @@ python seq_to_extracts.py --seqfile model_out/multi_bert.out
 ```
 
 
-
 our implementation is built upon [ncrf++](https://arxiv.org/abs/1806.05626)
-
 
 
