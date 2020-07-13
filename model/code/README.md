@@ -1,7 +1,7 @@
 
 # code for multi-granularity reader
 
-- step 0, mkdir
+- Step 0, mkdir
 
 ```
 mkdir model_out
@@ -9,7 +9,7 @@ mkdir model_save
 ```
 
 
-- Step 1, Generate seq_tag pairs,
+- Step 1, generate seq_tag pairs,
 
 ```
 python gen_seq_tag_pairs.py --div <div>
