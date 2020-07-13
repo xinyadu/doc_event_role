@@ -14,7 +14,7 @@ from model.seqlabel import SeqLabel
 # from model.sentclassifier import SentClassifier
 from utils.data import Data
 # from eval import get_macro_avg
-# from eval_no_duplicate import get_macro_avg
+from eval_no_duplicate import get_macro_avg
 
 try:
     import cPickle as pickle
