@@ -5,7 +5,8 @@
 
 * python 3.5.6
 * spacy==2.0.12
-* pytorch-pretrained-bert==0.6.2
+* torch 0.4.1 (for ```./model```)
+* pytorch-pretrained-bert==0.6.2 (for ```./model```)
 
 
 ## Dataset
