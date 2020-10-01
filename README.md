@@ -1,7 +1,7 @@
 # Document-level Event Role Filler Extraction (ACL 2020)
 [paper link](https://www.aclweb.org/anthology/2020.acl-main.714.pdf)
 
-Please also check our [sibling project on event entity extraction](https://github.com/xinyadu/doc_event_entity)
+Please also check our [sibling project on event entity extraction for template filling](https://github.com/xinyadu/doc_event_entity)
 
 ## Dependencies
 
